@@ -11,7 +11,9 @@ debug mobile apps with javascript
  
 ### links
 python 3.6 : https://www.python.org/downloads/release/python-360/
+
 jquery : https://code.jquery.com
+
 socket.io : https://socket.io/blog/socket-io-1-4-5/
   
 ### install flask and libraries
