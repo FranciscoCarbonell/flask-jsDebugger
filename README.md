@@ -38,6 +38,6 @@ open the terminal and go to the path where the run.py file is located and run
 
 ### show error
 
-now we just have to wait for the errors to be shown in the console and if there is an ajax error they can be seen in the errorAjax folder
+now we just have to wait for the errors to be shown in the terminal and if there is an ajax error they can be seen in the errorAjax folder
 
 
