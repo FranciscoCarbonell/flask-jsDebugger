@@ -43,4 +43,8 @@ open the terminal and go to the path where the run.py file is located and run
 
 now we just have to wait for the errors to be shown in the terminal and if there is an ajax error they can be seen in the errorAjax folder
 
+### example
+
+open your browser and go to http://127.0.0.1:5000/jsdebug to check that everything works fine, this is an example located in the templates/index.html folder
+
 
