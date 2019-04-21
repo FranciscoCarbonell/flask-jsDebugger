@@ -1,5 +1,5 @@
 # flask-jsDebugger
-debug mobile apps with javascript
+debug javascript applications in mobiles with flask
 
 ### requirements
 
