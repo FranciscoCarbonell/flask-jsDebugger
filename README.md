@@ -19,6 +19,7 @@ socket.io : https://socket.io/blog/socket-io-1-4-5/
 ### install flask and libraries
 
 `pip install flask`
+
 `pip install flask-socketio`
 
 ### debug your files
